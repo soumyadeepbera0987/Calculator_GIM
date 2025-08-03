@@ -72,8 +72,16 @@ footer{
     background-color: firebrick;
 }
 
+.green:active:{
+    background-color:green;
+    transform: translateY(3px);
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    
+}
+
 .AC:active {
     transform: translateY(3px);
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
     background-color: rgb(116, 18, 18);
+
 }
